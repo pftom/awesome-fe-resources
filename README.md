@@ -6,14 +6,19 @@
 
 - [awesome-f2e-libs](https://github.com/sorrycc/awesome-f2e-libs) - umijs、dva 的开发者，蚂蚁金服的大佬整理的前端库
 
-## 组件库（Vue 版）
+## Vue 相关
 
-- [iviewui](https://www.iviewui.com/) - 基于 Vue.js 的高质量组件库
+- [iviewui](https://www.iviewui.com/) ： 基于 Vue.js 的高质量组件库
+- [vue-virtual-scrolle](https://github.com/Akryum/vue-virtual-scroller)：接受大规模数据的滚动列表
 
 ## 开发服务器
 
 - [http-serve](https://github.com/http-party/http-server)：零配置的命令行开发服务器
 - [serve](https://github.com/vercel/serve)：可作为静态文件服务器以及浏览本地文件目录
+
+## 调试相关
+
+- [editthiscookie](http://www.editthiscookie.com/)：Chrome 插件，可以方便的设置网站的 Cookie
 
 ## 工程化相关
 
