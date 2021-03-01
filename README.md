@@ -7,18 +7,22 @@
 - [awesome-f2e-libs](https://github.com/sorrycc/awesome-f2e-libs) - umijs、dva 的开发者，蚂蚁金服的大佬整理的前端库
 - [godbasin](https://github.com/godbasin/godbasin.github.io)：被删前端博客
 - [awesome-cto](https://github.com/kuchin/awesome-cto)：对创业公司友好的一些 CTO 相关的资源
+- [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) ：前端 Web 开发者的一系列总结的优质资源，包括架构、生态、兼容性、协议等
 
 ## React 相关
 
 - [react-query](https://github.com/tannerlinsley/react-query)：获取、缓存和更新异步数据的 React Hooks
 - [react-diagrams](https://github.com/projectstorm/react-diagrams)：使用 react 画流程图
 - [jotai](https://github.com/pmndrs/jotai) ：原子的、灵活的 React 状态管理库
+- [react-hook-form](https://github.com/react-hook-form/react-hook-form) ：React Hooks 版本的表单验证，支持 Web 和 React Native
+- [next-auth](https://github.com/nextauthjs/next-auth) ：Next.js 的验证库
 
 ## Vue 相关
 
 - [iviewui](https://www.iviewui.com/) ： 基于 Vue.js 的高质量组件库
 - [vue-virtual-scrolle](https://github.com/Akryum/vue-virtual-scroller)：接受大规模数据的滚动列表
 - [nuxt/vite](https://github.com/nuxt/vite)：Nuxt2 使用 Vite 作为开发工具
+- [vite-design](https://github.com/zhangyuang/vite-design) ：提供 Vite 中文文档，分析 Vite 1.0 源码
 
 ## CSS 相关
 
@@ -38,6 +42,7 @@
 
 - [editthiscookie](http://www.editthiscookie.com/)：Chrome 插件，可以方便的设置网站的 Cookie
 - [Flame bearer](https://github.com/mapbox/flamebearer) ：极快的 V8 和 Node.js 的火焰图工具
+- [patch-package](https://github.com/ds300/patch-package) ：快速修复损坏的 node_modules
 
 ## 工程化相关
 
@@ -57,6 +62,8 @@
 
 - [keenwrite](https://github.com/DaveJarvis/keenwrite)：基于 Java 的桌面端文本编辑器
 - [xdm](https://github.com/wooorm/xdm)：MDX 的编译器，支持 Webpack、Rollup 和 ESBuild 等插件
+- [swc](https://github.com/swc-project/swc) ：使用 Rust 写的巨快的 JS 编译器
+- [vue-editor-js](https://github.com/ChangJoo-Park/vue-editor-js) ：Vue 版本的 editor.js
 
 ## 文档相关
 
@@ -71,3 +78,12 @@
 - [github-star-stats](https://stars.yangerxiao.com/)：展示一个 Github 仓库的 Star 趋势
 - [tsukae](https://github.com/irevenko/tsukae)：展示最常用的 shell 命令
 - [bit](https://github.com/chriswalz/bit)：现代 Git CLI
+- [venom](https://github.com/orkestral/venom) ：创建 WhatsApp 的 JS 库
+
+## 底层相关
+
+[awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) ：构建大规模、可依赖和高性能的系统模式总结
+
+## 生活相关
+
+- [shanghai_house_knowledge](https://github.com/ayuer/shanghai_house_knowledge) ：程序员上海买房经历
