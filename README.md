@@ -8,6 +8,9 @@
 - [godbasin](https://github.com/godbasin/godbasin.github.io)：被删前端博客
 - [awesome-cto](https://github.com/kuchin/awesome-cto)：对创业公司友好的一些 CTO 相关的资源
 - [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) ：前端 Web 开发者的一系列总结的优质资源，包括架构、生态、兼容性、协议等
+- [modern-web](https://github.com/modernweb-dev/web)：现代 Web 开发的指南、工具和库
+- [web-dev-for-beginners](https://github.com/microsoft/Web-Dev-For-Beginners)：微软出品的 Web 基础开发课程
+- [front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook)：前端面试手册
 
 ## React 相关
 
@@ -16,6 +19,10 @@
 - [jotai](https://github.com/pmndrs/jotai) ：原子的、灵活的 React 状态管理库
 - [react-hook-form](https://github.com/react-hook-form/react-hook-form) ：React Hooks 版本的表单验证，支持 Web 和 React Native
 - [next-auth](https://github.com/nextauthjs/next-auth) ：Next.js 的验证库
+- [react-xr](https://github.com/pmndrs/react-xr)： 使用 react-three-fiber 的 VR/AR 库
+- [valtio](https://github.com/pmndrs/valtio)：可以在 React 和原生  JS 中使用代理 State
+- [react-textare-autosize](https://github.com/Andarist/react-textarea-autosize)：React 版本的 textarea 自动适应大小
+- [flowchar](https://github.com/davidkpiano/xstate)：使用文本快速创建流程图
 
 ## Vue 相关
 
@@ -23,20 +30,26 @@
 - [vue-virtual-scrolle](https://github.com/Akryum/vue-virtual-scroller)：接受大规模数据的滚动列表
 - [nuxt/vite](https://github.com/nuxt/vite)：Nuxt2 使用 Vite 作为开发工具
 - [vite-design](https://github.com/zhangyuang/vite-design) ：提供 Vite 中文文档，分析 Vite 1.0 源码
+- [volar](https://github.com/johnsoncodehk/volar)： Vue3 的 VSCode 语言支持扩展
 
 ## CSS 相关
 
 - [goober](https://github.com/cristianbote/goober)：小于 1KB 的 css-in-js 库
 - [open-ui](https://github.com/WICG/open-ui)：维护一个 UI 的开放标准
 
+## 好用的 VSCode 插件
+
+- [Foam](https://foambubble.github.io/foam/) ：知识管理和分享系统
+
 ## 桌面端
 
 - [tauri](https://github.com/tauri-apps/tauri)：使用 Web 技术构建更小、更快和更安全的桌面端应用
 
-## 开发服务器
+## 开发辅助
 
 - [http-serve](https://github.com/http-party/http-server)：零配置的命令行开发服务器
 - [serve](https://github.com/vercel/serve)：可作为静态文件服务器以及浏览本地文件目录
+- [xstate](https://github.com/davidkpiano/xstate)： 现代 Web 的状态管理库
 
 ## 调试相关
 
@@ -78,11 +91,17 @@
 - [github-star-stats](https://stars.yangerxiao.com/)：展示一个 Github 仓库的 Star 趋势
 - [tsukae](https://github.com/irevenko/tsukae)：展示最常用的 shell 命令
 - [bit](https://github.com/chriswalz/bit)：现代 Git CLI
+- [gitnow](https://github.com/joseluisq/gitnow)：加速 Git 工作流
 - [venom](https://github.com/orkestral/venom) ：创建 WhatsApp 的 JS 库
+- [excalidraw](https://github.com/excalidraw/excalidraw)：一个用于画出类似手画风格图形的虚拟白板
 
 ## 底层相关
 
-[awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) ：构建大规模、可依赖和高性能的系统模式总结
+- [awesome-scalability](https://github.com/binhnguyennus/awesome-scalability) ：构建大规模、可依赖和高性能的系统模式总结
+- [ssim](https://github.com/obartra/ssim) ：比较两张图片
+- [pngquant](https://github.com/ImageOptim) ：高效压缩 png 图片
+- [uhtml](https://github.com/WebReflection/uhtml)： 一个微型 html/svg 渲染器
+- [wasm3](https://github.com/wasm3/wasm3)：使用 C 写的超快的 WebAssembly 解释器
 
 ## 生活相关
 
