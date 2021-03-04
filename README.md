@@ -23,6 +23,8 @@
 - [valtio](https://github.com/pmndrs/valtio)：可以在 React 和原生  JS 中使用代理 State
 - [react-textare-autosize](https://github.com/Andarist/react-textarea-autosize)：React 版本的 textarea 自动适应大小
 - [flowchar](https://github.com/davidkpiano/xstate)：使用文本快速创建流程图
+- [awesome-react-render](https://github.com/chentsulin/awesome-react-renderer)：践行了 React 一次学习，到处使用的哲学，包括渲染到命令行、电视、桌面端、移动端等
+- [next-i18next](https://github.com/isaachinman/next-i18next)：方便在 Next.js 中做国际化的库
 
 ## Vue 相关
 
@@ -36,14 +38,19 @@
 
 - [goober](https://github.com/cristianbote/goober)：小于 1KB 的 css-in-js 库
 - [open-ui](https://github.com/WICG/open-ui)：维护一个 UI 的开放标准
+- [tailwindcss](https://github.com/tailwindlabs/tailwindcss)：辅助优先的 CSS 框架，能够快速的开发 UI
+- [heroicons](https://github.com/tailwindlabs/heroicons)：一系列很棒的 SVG icons 
+- [argon-design-system](https://github.com/creativetimofficial/argon-design-system)：基于 Bootstrap4 的设计系统
 
-## 好用的 VSCode 插件
+## 好用的插件
 
-- [Foam](https://foambubble.github.io/foam/) ：知识管理和分享系统
+- [Foam](https://foambubble.github.io/foam/) ：知识管理和分享系统（VSCode 插件）
+- [immutable-object-formatter-extension](https://github.com/mattzeunert/immutable-object-formatter-extension)：将 Immutable 转换为更容易阅读的格式（Chrome 插件）
 
-## 桌面端
+## 跨平台开发
 
 - [tauri](https://github.com/tauri-apps/tauri)：使用 Web 技术构建更小、更快和更安全的桌面端应用
+- [hippy](https://github.com/Tencent/Hippy)：腾讯出品的跨平台开发框架，使用类似 React/Vue 的技术来开发 iOS、Android 和 Web 应用。
 
 ## 开发辅助
 
@@ -77,6 +84,7 @@
 - [xdm](https://github.com/wooorm/xdm)：MDX 的编译器，支持 Webpack、Rollup 和 ESBuild 等插件
 - [swc](https://github.com/swc-project/swc) ：使用 Rust 写的巨快的 JS 编译器
 - [vue-editor-js](https://github.com/ChangJoo-Park/vue-editor-js) ：Vue 版本的 editor.js
+- [brackets](https://github.com/adobe/brackets)：adobe 开发的 Web 端的代码编辑器，目前已经停止维护，推荐 VSCode 
 
 ## 文档相关
 
@@ -102,7 +110,9 @@
 - [pngquant](https://github.com/ImageOptim) ：高效压缩 png 图片
 - [uhtml](https://github.com/WebReflection/uhtml)： 一个微型 html/svg 渲染器
 - [wasm3](https://github.com/wasm3/wasm3)：使用 C 写的超快的 WebAssembly 解释器
+- [jsencrypt](https://github.com/travist/jsencrypt)：可以用于 OpenSSL RSA 加密、解密和秘钥生成
 
 ## 生活相关
 
 - [shanghai_house_knowledge](https://github.com/ayuer/shanghai_house_knowledge) ：程序员上海买房经历
+- [leerob.io](https://github.com/leerob/leerob.io)：基于 Next.js、MDX、Tailwind CSS 编写，并部署到 Vercel 的博客
