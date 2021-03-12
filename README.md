@@ -15,6 +15,8 @@
 - [cs-video-courses](https://github.com/Developer-Y/cs-video-courses)：一系列计算机科学视频课程
 - [engineering-blogs](https://github.com/kilimchoi/engineering-blogs)：一系列工程师的博客
 - [app-ideas](https://github.com/florinpop17/app-ideas)：一系列提升编码技能的应用想法
+- [awesome-fenix](https://github.com/fenixsoft/awesome-fenix)：讨论如何构筑一套可靠的分布式大型软件系统
+- [awesome-crawler](https://github.com/BruceDone/awesome-crawler)：一系列爬虫集合，包含多种语言
 
 ## React 相关
 
@@ -31,6 +33,9 @@
 - [next-i18next](https://github.com/isaachinman/next-i18next)：方便在 Next.js 中做国际化的库
 - [reactive.macro](https://github.com/yesmeck/reactive.macro)：减少 React 的模板代码的库
 - [react-md](https://github.com/mlaursen/react-md)：React 实现的 Material Design 组件库
+- [react-ripples](https://github.com/rwu823/react-ripples)：Material 形式的波浪风格
+- [web3-react](https://github.com/NoahZinsmeister/web3-react)：使用 React 来构建以太坊 DApp
+- [react-refractor](https://github.com/rexxars/react-refractor)：基于 Prism 和 refractor 来对 React 应用进行语法高亮
 
 ## Vue 相关
 
@@ -54,6 +59,10 @@
 - [argon-design-system](https://github.com/creativetimofficial/argon-design-system)：基于 Bootstrap4 的设计系统
 - [popmotion](https://popmotion.io/)：动画工具箱
 
+## TypeScript 相关
+
+[type-coverage](https://github.com/plantain-00/type-coverage)：检查一个 TypeScript 项目的 type 覆盖度
+
 ## 好用的插件
 
 - [Foam](https://foambubble.github.io/foam/) ：知识管理和分享系统（VSCode 插件）
@@ -70,12 +79,15 @@
 - [serve](https://github.com/vercel/serve)：可作为静态文件服务器以及浏览本地文件目录
 - [xstate](https://github.com/davidkpiano/xstate)： 现代 Web 的状态管理库
 - [unist-util-select](https://github.com/syntax-tree/unist-util-select)：使用类 CSS 的选择去来选中一元节点
+- [auto](https://github.com/intuit/auto)：在 PR 时基于语义版本标签生成 released 包
+- [trpc](https://github.com/trpc/trpc)：构建 typesafe 的端到端 API
 
-## 调试相关
+## 测试/调试相关
 
 - [editthiscookie](http://www.editthiscookie.com/)：Chrome 插件，可以方便的设置网站的 Cookie
 - [Flame bearer](https://github.com/mapbox/flamebearer) ：极快的 V8 和 Node.js 的火焰图工具
 - [patch-package](https://github.com/ds300/patch-package) ：快速修复损坏的 node_modules
+- [axe-core](https://github.com/dequelabs/axe-core)：用于 Web UI 自动化测试的可访问性引擎
 
 ## 工程化相关
 
@@ -100,6 +112,8 @@
 - [brackets](https://github.com/adobe/brackets)：adobe 开发的 Web 端的代码编辑器，目前已经停止维护，推荐 VSCode 
 - [estree-util-value-to-estree](https://github.com/remcohaszing/estree-util-value-to-estree)：将 JavaScript 值转换为 ESTree 表达式
 - [ckeditor](https://github.com/ckeditor/ckeditor5)：强大的富文本编辑，支持常用的 Markdown
+- [language-packs](https://github.com/jupyterlab/language-packs)：Jupyter 生态的语言集
+- [tribute](https://github.com/zurb/tribute)：ES6 原生的 @mentions
 
 ## 文档相关
 
@@ -118,6 +132,7 @@
 - [venom](https://github.com/orkestral/venom) ：创建 WhatsApp 的 JS 库
 - [excalidraw](https://github.com/excalidraw/excalidraw)：一个用于画出类似手画风格图形的虚拟白板
 - [pydio/cells](https://github.com/pydio/cells)：一个 Go 实现的文件分享平台
+- [Inquirer.js](https://github.com/SBoudrias/Inquirer.js)：用于构建命令行工具的一系列通用工具
 
 ## 底层相关
 
@@ -130,6 +145,7 @@
 - [assemblyscript](https://github.com/yesmeck/reactive.macro)：将 TypeScript 转为 WebAssembly
 - [crates.io](https://crates.io/)：Rust 社区包源，类似 JS 的 npm
 - [prepack](https://github.com/facebook/prepack)：一个 JavaScript 打包优化器
+- [llvm-project](https://github.com/llvm/llvm-project)：LLVM 编译器架构
 
 ## 生活相关
 
