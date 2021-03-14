@@ -17,6 +17,8 @@
 - [app-ideas](https://github.com/florinpop17/app-ideas)：一系列提升编码技能的应用想法
 - [awesome-fenix](https://github.com/fenixsoft/awesome-fenix)：讨论如何构筑一套可靠的分布式大型软件系统
 - [awesome-crawler](https://github.com/BruceDone/awesome-crawler)：一系列爬虫集合，包含多种语言
+- [dt-fe/weekly](https://github.com/dt-fe/weekly)：阿里大佬出品的前端精度周刊
+- [awesome-ddd](https://github.com/heynickc/awesome-ddd)：领域驱动设计的系列资源
 
 ## React 相关
 
@@ -32,23 +34,27 @@
 - [awesome-react-render](https://github.com/chentsulin/awesome-react-renderer)：践行了 React 一次学习，到处使用的哲学，包括渲染到命令行、电视、桌面端、移动端等
 - [next-i18next](https://github.com/isaachinman/next-i18next)：方便在 Next.js 中做国际化的库
 - [reactive.macro](https://github.com/yesmeck/reactive.macro)：减少 React 的模板代码的库
-- [react-md](https://github.com/mlaursen/react-md)：React 实现的 Material Design 组件库
 - [react-ripples](https://github.com/rwu823/react-ripples)：Material 形式的波浪风格
 - [web3-react](https://github.com/NoahZinsmeister/web3-react)：使用 React 来构建以太坊 DApp
 - [react-refractor](https://github.com/rexxars/react-refractor)：基于 Prism 和 refractor 来对 React 应用进行语法高亮
+- [react-dnd](https://github.com/react-dnd/react-dnd)：React 版本的拖拽库
 
 ## Vue 相关
 
-- [iviewui](https://www.iviewui.com/) ： 基于 Vue.js 的高质量组件库
 - [vue-virtual-scrolle](https://github.com/Akryum/vue-virtual-scroller)：接受大规模数据的滚动列表
 - [nuxt/vite](https://github.com/nuxt/vite)：Nuxt2 使用 Vite 作为开发工具
-- [vite-design](https://github.com/zhangyuang/vite-design) ：提供 Vite 中文文档，分析 Vite 1.0 源码
 - [volar](https://github.com/johnsoncodehk/volar)： Vue3 的 VSCode 语言支持扩展
 - [@vueuse/motion](https://motion.vueuse.org/introduction.html)：将 [Popmotion](https://popmotion.io/) 整合到 Vue 中
+- [svu](https://github.com/wineSu/svu)：Vue3 的一个简单实现版本
+- [vite-design](https://github.com/zhangyuang/vite-design)：提供 Vite 中文文档，分析 Vite 1.0 源码
 
 ## Svelte 相关
 
 - [svelte-nodegui](https://github.com/nodegui/svelte-nodegui)：使用 Svelte 来写桌面端应用
+
+## Flutter
+
+- [awesome-flutter](https://github.com/Solido/awesome-flutter)：Flutter 的系列资源
 
 ## CSS 相关
 
@@ -56,12 +62,26 @@
 - [open-ui](https://github.com/WICG/open-ui)：维护一个 UI 的开放标准
 - [tailwindcss](https://github.com/tailwindlabs/tailwindcss)：辅助优先的 CSS 框架，能够快速的开发 UI
 - [heroicons](https://github.com/tailwindlabs/heroicons)：一系列很棒的 SVG icons 
-- [argon-design-system](https://github.com/creativetimofficial/argon-design-system)：基于 Bootstrap4 的设计系统
 - [popmotion](https://popmotion.io/)：动画工具箱
+- [tailwindcss-typography](https://github.com/tailwindlabs/tailwindcss-typography)：Tailwind  字体库
+
+## 组件库相关
+
+- [blueprint](https://blueprintjs.com/docs/#select/omnibar)：基于 React 的 UI 组件库
+- [iviewui](https://www.iviewui.com/) ： 基于 Vue.js 的高质量组件库
+- [react-md](https://github.com/mlaursen/react-md)：React 实现的 Material Design 组件库
+- [argon-design-system](https://github.com/creativetimofficial/argon-design-system)：基于 Bootstrap4 的设计系统
+- [tabler](https://github.com/tabler/tabler)：基于 Bootstrap 的 Dashboard UI 组件库
+- [rsuite](https://rsuitejs.com/)：一系列 React 组件套件
+- [react-spectrum](https://react-spectrum.adobe.com/index.html)：Adobe 的设计系统，包括设计原语、跨平台的状态管理等
 
 ## TypeScript 相关
 
 [type-coverage](https://github.com/plantain-00/type-coverage)：检查一个 TypeScript 项目的 type 覆盖度
+
+## Node.js 相关
+
+- [prisma](https://github.com/prisma/prisma)：下一代基于 TypeScript 的 Node.js  ORM，支持 PostgreSQL、MySQL、MariaDB、SQL Server & SQLite
 
 ## 好用的插件
 
@@ -81,6 +101,8 @@
 - [unist-util-select](https://github.com/syntax-tree/unist-util-select)：使用类 CSS 的选择去来选中一元节点
 - [auto](https://github.com/intuit/auto)：在 PR 时基于语义版本标签生成 released 包
 - [trpc](https://github.com/trpc/trpc)：构建 typesafe 的端到端 API
+- [supabase](https://github.com/supabase/supabase)：Firebase 的开源替代版本
+- [deepmerge](https://github.com/TehShrike/deepmerge)：深度递归合并 JS 对象
 
 ## 测试/调试相关
 
@@ -114,6 +136,7 @@
 - [ckeditor](https://github.com/ckeditor/ckeditor5)：强大的富文本编辑，支持常用的 Markdown
 - [language-packs](https://github.com/jupyterlab/language-packs)：Jupyter 生态的语言集
 - [tribute](https://github.com/zurb/tribute)：ES6 原生的 @mentions
+- [medium-editor](https://github.com/yabwe/medium-editor)：使用原生 JS 实现的多平台兼容的类 Medium 编辑器
 
 ## 文档相关
 
@@ -133,6 +156,7 @@
 - [excalidraw](https://github.com/excalidraw/excalidraw)：一个用于画出类似手画风格图形的虚拟白板
 - [pydio/cells](https://github.com/pydio/cells)：一个 Go 实现的文件分享平台
 - [Inquirer.js](https://github.com/SBoudrias/Inquirer.js)：用于构建命令行工具的一系列通用工具
+- [unlimited-medium](https://github.com/issammani/unlimited-medium)：可以无限观看 Medium 文章的 Chrome 扩展
 
 ## 底层相关
 
@@ -146,6 +170,7 @@
 - [crates.io](https://crates.io/)：Rust 社区包源，类似 JS 的 npm
 - [prepack](https://github.com/facebook/prepack)：一个 JavaScript 打包优化器
 - [llvm-project](https://github.com/llvm/llvm-project)：LLVM 编译器架构
+- [bazel](https://bazel.build/)：构建和测试任何大小的软件，快速且可依赖
 
 ## 生活相关
 
