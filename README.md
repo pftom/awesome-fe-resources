@@ -47,6 +47,9 @@
 - [@vueuse/motion](https://motion.vueuse.org/introduction.html)：将 [Popmotion](https://popmotion.io/) 整合到 Vue 中
 - [svu](https://github.com/wineSu/svu)：Vue3 的一个简单实现版本
 - [vite-design](https://github.com/zhangyuang/vite-design)：提供 Vite 中文文档，分析 Vite 1.0 源码
+- [vue-use](https://vueuse.org/)：Vue Composition 的实用函数集合
+- [iconify](https://github.com/iconify/iconify)：同构 icon 框架
+- [vite-plugin-components](https://github.com/antfu/vite-plugin-components)：Vite 按需自动导入组件
 
 ## Svelte 相关
 
@@ -77,11 +80,17 @@
 
 ## TypeScript 相关
 
-[type-coverage](https://github.com/plantain-00/type-coverage)：检查一个 TypeScript 项目的 type 覆盖度
+- [type-coverage](https://github.com/plantain-00/type-coverage)：检查一个 TypeScript 项目的 type 覆盖度
+- [type-challenges](https://github.com/type-challenges/type-challenges)：TS 的类型挑战的 online judge （OJ）
 
 ## Node.js 相关
 
 - [prisma](https://github.com/prisma/prisma)：下一代基于 TypeScript 的 Node.js  ORM，支持 PostgreSQL、MySQL、MariaDB、SQL Server & SQLite
+- [node-http-proxy](https://github.com/http-party/node-http-proxy#options)：Node.js 的多功能的 http 代理
+
+## CLI 相关
+
+- [degit](https://github.com/Rich-Harris/degit)：直观的项目脚手架，可以从 github 拉项目到本地
 
 ## 好用的插件
 
@@ -103,6 +112,7 @@
 - [trpc](https://github.com/trpc/trpc)：构建 typesafe 的端到端 API
 - [supabase](https://github.com/supabase/supabase)：Firebase 的开源替代版本
 - [deepmerge](https://github.com/TehShrike/deepmerge)：深度递归合并 JS 对象
+- [polyfill.io](https://polyfill.io/v3/)：根据浏览器的 User-Agent 自动生成必要的 polyfill
 
 ## 测试/调试相关
 
