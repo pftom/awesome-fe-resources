@@ -2,6 +2,12 @@
 
 > 一些优质的前端资源
 
+## 对打造产品有帮助
+
+- [Kong](https://github.com/Kong)：Cloud Native API Gateway
+  - [insomnia](https://github.com/Kong/insomnia)：开源的 API Client 和 GraphQL/REST/gRPC 设计平台
+  - [mockbin](https://github.com/Kong/mockbin)：Mock、测试和追踪微服务的 HTTP 请求和响应
+
 ## 优质的 Github 库
 
 - [awesome-f2e-libs](https://github.com/sorrycc/awesome-f2e-libs) - umijs、dva 的开发者，蚂蚁金服的大佬整理的前端库
@@ -19,6 +25,8 @@
 - [awesome-crawler](https://github.com/BruceDone/awesome-crawler)：一系列爬虫集合，包含多种语言
 - [dt-fe/weekly](https://github.com/dt-fe/weekly)：阿里大佬出品的前端精度周刊
 - [awesome-ddd](https://github.com/heynickc/awesome-ddd)：领域驱动设计的系列资源
+- [CodeX](https://github.com/codex-team)：一些 Web 爱好者发起的项目，包含 Editorjs 等
+- [Text editos](https://github.com/collections/text-editors)：文本编辑器合集
 
 ## React 相关
 
@@ -50,6 +58,8 @@
 - [vue-use](https://vueuse.org/)：Vue Composition 的实用函数集合
 - [iconify](https://github.com/iconify/iconify)：同构 icon 框架
 - [vite-plugin-components](https://github.com/antfu/vite-plugin-components)：Vite 按需自动导入组件
+- [swrv](https://github.com/Kong/swrv)：swr 的 Vue 版本
+- [harlem](https://github.com/andrewcourtice/harlem)：简单的，unopinionated 的 Vue3 版本的状态管理
 
 ## Svelte 相关
 
@@ -64,6 +74,7 @@
 - [goober](https://github.com/cristianbote/goober)：小于 1KB 的 css-in-js 库
 - [open-ui](https://github.com/WICG/open-ui)：维护一个 UI 的开放标准
 - [tailwindcss](https://github.com/tailwindlabs/tailwindcss)：辅助优先的 CSS 框架，能够快速的开发 UI
+- [tailwindcss-jit](https://github.com/tailwindlabs/tailwindcss-jit)：Tailwind 的实时编译器
 - [heroicons](https://github.com/tailwindlabs/heroicons)：一系列很棒的 SVG icons 
 - [popmotion](https://popmotion.io/)：动画工具箱
 - [tailwindcss-typography](https://github.com/tailwindlabs/tailwindcss-typography)：Tailwind  字体库
@@ -147,6 +158,8 @@
 - [language-packs](https://github.com/jupyterlab/language-packs)：Jupyter 生态的语言集
 - [tribute](https://github.com/zurb/tribute)：ES6 原生的 @mentions
 - [medium-editor](https://github.com/yabwe/medium-editor)：使用原生 JS 实现的多平台兼容的类 Medium 编辑器
+- [vue-quill](https://github.com/vueup/vue-quill)：Vue3 版本的 Quill 编辑器
+- [editorjs](https://editorjs.io/)：一个跨平台、多框架的编辑器
 
 ## 文档相关
 
@@ -181,6 +194,8 @@
 - [prepack](https://github.com/facebook/prepack)：一个 JavaScript 打包优化器
 - [llvm-project](https://github.com/llvm/llvm-project)：LLVM 编译器架构
 - [bazel](https://bazel.build/)：构建和测试任何大小的软件，快速且可依赖
+- [ohm](https://github.com/harc/ohm)：一个构建 parsers、interpreters、compilers 的库或者语言
+- [surcras](https://github.com/alangpierce/sucrase)：超快的 Babel 替代品编译器，只考虑现代的 JS runtimes
 
 ## 生活相关
 
