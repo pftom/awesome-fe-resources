@@ -46,6 +46,7 @@
 - [web3-react](https://github.com/NoahZinsmeister/web3-react)：使用 React 来构建以太坊 DApp
 - [react-refractor](https://github.com/rexxars/react-refractor)：基于 Prism 和 refractor 来对 React 应用进行语法高亮
 - [react-dnd](https://github.com/react-dnd/react-dnd)：React 版本的拖拽库
+- [material-tailwind](https://material-tailwind.com/)：使用 tailwind 实现 material design
 
 ## Vue 相关
 
@@ -60,6 +61,7 @@
 - [vite-plugin-components](https://github.com/antfu/vite-plugin-components)：Vite 按需自动导入组件
 - [swrv](https://github.com/Kong/swrv)：swr 的 Vue 版本
 - [harlem](https://github.com/andrewcourtice/harlem)：简单的，unopinionated 的 Vue3 版本的状态管理
+- [pinia](https://github.com/posva/pinia)：支持 Vue3 和 Vite 的状态管理方案
 
 ## Svelte 相关
 
@@ -78,6 +80,7 @@
 - [heroicons](https://github.com/tailwindlabs/heroicons)：一系列很棒的 SVG icons 
 - [popmotion](https://popmotion.io/)：动画工具箱
 - [tailwindcss-typography](https://github.com/tailwindlabs/tailwindcss-typography)：Tailwind  字体库
+- [tailwind-starter-kit](https://www.creative-tim.com/learning-lab/tailwind-starter-kit/presentation)：tailwind 实现的一套组件库，用于学习组件库写法
 
 ## 组件库相关
 
@@ -124,6 +127,8 @@
 - [supabase](https://github.com/supabase/supabase)：Firebase 的开源替代版本
 - [deepmerge](https://github.com/TehShrike/deepmerge)：深度递归合并 JS 对象
 - [polyfill.io](https://polyfill.io/v3/)：根据浏览器的 User-Agent 自动生成必要的 polyfill
+- [waypoint](https://github.com/hashicorp/waypoint)：在任意平台上构建，部署，和发布应用
+- [dokku](https://github.com/dokku/dokku)：Docker powered 的 Paas 平台，用于管理应用的生命周期
 
 ## 测试/调试相关
 
@@ -160,6 +165,8 @@
 - [medium-editor](https://github.com/yabwe/medium-editor)：使用原生 JS 实现的多平台兼容的类 Medium 编辑器
 - [vue-quill](https://github.com/vueup/vue-quill)：Vue3 版本的 Quill 编辑器
 - [editorjs](https://editorjs.io/)：一个跨平台、多框架的编辑器
+- [mdx-bunder](https://github.com/kentcdodds/mdx-bundler)：给予 MDX/TSX 字符串，返回可以渲染的组件
+- [prosemirror-math](https://github.com/benrbray/prosemirror-math)：支持 Prosemirror math
 
 ## 文档相关
 
@@ -180,6 +187,8 @@
 - [pydio/cells](https://github.com/pydio/cells)：一个 Go 实现的文件分享平台
 - [Inquirer.js](https://github.com/SBoudrias/Inquirer.js)：用于构建命令行工具的一系列通用工具
 - [unlimited-medium](https://github.com/issammani/unlimited-medium)：可以无限观看 Medium 文章的 Chrome 扩展
+- [nodejs-text-to-speech](https://github.com/googleapis/nodejs-text-to-speech)：文本转语音的库
+- [awesome-lowcode](https://github.com/taowen/awesome-lowcode)：低代码平台从业者交流
 
 ## 底层相关
 
@@ -196,6 +205,7 @@
 - [bazel](https://bazel.build/)：构建和测试任何大小的软件，快速且可依赖
 - [ohm](https://github.com/harc/ohm)：一个构建 parsers、interpreters、compilers 的库或者语言
 - [surcras](https://github.com/alangpierce/sucrase)：超快的 Babel 替代品编译器，只考虑现代的 JS runtimes
+- [twgl.js](https://github.com/greggman/twgl.js)：小的 WebGL 帮助库
 
 ## 生活相关
 
