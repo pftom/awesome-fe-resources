@@ -27,6 +27,7 @@
 - [awesome-ddd](https://github.com/heynickc/awesome-ddd)：领域驱动设计的系列资源
 - [CodeX](https://github.com/codex-team)：一些 Web 爱好者发起的项目，包含 Editorjs 等
 - [Text editos](https://github.com/collections/text-editors)：文本编辑器合集
+- [algorithm](https://github.com/marcosfede/algorithms)：使用不同的语言解决算法和数据结构的问题
 
 ## React 相关
 
@@ -47,6 +48,7 @@
 - [react-refractor](https://github.com/rexxars/react-refractor)：基于 Prism 和 refractor 来对 React 应用进行语法高亮
 - [react-dnd](https://github.com/react-dnd/react-dnd)：React 版本的拖拽库
 - [material-tailwind](https://material-tailwind.com/)：使用 tailwind 实现 material design
+- [zustand](https://github.com/pmndrs/zustand#transient-updates-for-often-occuring-state-changes)：React 中基于 Hooks 的状态管理，🧐思考：基于这个思想借鉴到 Vue 状态管理？需要理解 vuex 做了什么，我们能改进什么
 
 ## Vue 相关
 
@@ -101,6 +103,10 @@
 
 - [prisma](https://github.com/prisma/prisma)：下一代基于 TypeScript 的 Node.js  ORM，支持 PostgreSQL、MySQL、MariaDB、SQL Server & SQLite
 - [node-http-proxy](https://github.com/http-party/node-http-proxy#options)：Node.js 的多功能的 http 代理
+
+## 数据库相关
+
+- [querybook](https://www.querybook.org/)：带 notebook 界面的大数据查询的 IDE
 
 ## CLI 相关
 
@@ -189,6 +195,8 @@
 - [unlimited-medium](https://github.com/issammani/unlimited-medium)：可以无限观看 Medium 文章的 Chrome 扩展
 - [nodejs-text-to-speech](https://github.com/googleapis/nodejs-text-to-speech)：文本转语音的库
 - [awesome-lowcode](https://github.com/taowen/awesome-lowcode)：低代码平台从业者交流
+- [vdx](https://github.com/yuanqing/vdx)：使用 FFmpeg 来处理 video 的 CLI
+- [geometric.js](https://github.com/HarryStevens/geometric)：用来做几何运算的 JS 库
 
 ## 底层相关
 
