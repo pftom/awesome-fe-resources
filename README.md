@@ -7,6 +7,20 @@
 - [Kong](https://github.com/Kong)：Cloud Native API Gateway
   - [insomnia](https://github.com/Kong/insomnia)：开源的 API Client 和 GraphQL/REST/gRPC 设计平台
   - [mockbin](https://github.com/Kong/mockbin)：Mock、测试和追踪微服务的 HTTP 请求和响应
+- [rought-notation](https://github.com/rough-stuff/rough-notation)：在 Web 上创建动画草图
+- [xstate](https://github.com/davidkpiano/xstate)：现代 Web 的状态机和状态图
+- [jonschlinkert](https://github.com/jonschlinkert)：研究 Markdown 的人
+- [git-notify](https://github.com/jevakallio/git-notify)：通过 git commit 消息通知重要的更新
+- [yjs](https://github.com/yjs/yjs)：实时协作
+- [moleculer](https://github.com/moleculerjs/moleculer)：渐进式的 Node.js 微服务框架
+- [markup](https://github.com/github/markup)：判定那些 markup 库需要使用，在渲染 github 的 README内容时
+
+## 未来会研究的
+
+- [lucet](https://github.com/bytecodealliance/lucet)：WebAssembly 沙盒编译器
+- [xstate](https://github.com/davidkpiano/xstate)：现代 Web 的状态机和状态图
+- [wasmtime](https://github.com/bytecodealliance/wasmtime)：独立的，JIT 风格的 WebAssembly 
+- [thinscript](https://github.com/evanw/thinscript)：低层次的类 TS 的语言
 
 ## 优质的 Github 库
 
@@ -28,6 +42,8 @@
 - [CodeX](https://github.com/codex-team)：一些 Web 爱好者发起的项目，包含 Editorjs 等
 - [Text editos](https://github.com/collections/text-editors)：文本编辑器合集
 - [algorithm](https://github.com/marcosfede/algorithms)：使用不同的语言解决算法和数据结构的问题
+- [javascript-algorithms](https://github.com/mgechev/javascript-algorithms)：使用 JS 实现计算机科学的算法
+- [awesome-compilers](https://github.com/aalhour/awesome-compilers)：awesome 编译器系列
 
 ## React 相关
 
@@ -83,6 +99,7 @@
 - [popmotion](https://popmotion.io/)：动画工具箱
 - [tailwindcss-typography](https://github.com/tailwindlabs/tailwindcss-typography)：Tailwind  字体库
 - [tailwind-starter-kit](https://www.creative-tim.com/learning-lab/tailwind-starter-kit/presentation)：tailwind 实现的一套组件库，用于学习组件库写法
+- [supabase-ui](https://github.com/supabase/ui)：Firebase 的开源替代品 UI 组件库
 
 ## 组件库相关
 
@@ -197,6 +214,7 @@
 - [awesome-lowcode](https://github.com/taowen/awesome-lowcode)：低代码平台从业者交流
 - [vdx](https://github.com/yuanqing/vdx)：使用 FFmpeg 来处理 video 的 CLI
 - [geometric.js](https://github.com/HarryStevens/geometric)：用来做几何运算的 JS 库
+- [zoxide](https://github.com/ajeetdsouza/zoxide)：快速在文件系统里面导航
 
 ## 底层相关
 
