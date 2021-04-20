@@ -14,6 +14,7 @@
 - [yjs](https://github.com/yjs/yjs)：实时协作
 - [moleculer](https://github.com/moleculerjs/moleculer)：渐进式的 Node.js 微服务框架
 - [markup](https://github.com/github/markup)：判定那些 markup 库需要使用，在渲染 github 的 README内容时
+- [code-server](https://github.com/cdr/code-server)：在浏览器中使用 VSCode
 
 ## 未来会研究的
 
@@ -65,6 +66,7 @@
 - [react-dnd](https://github.com/react-dnd/react-dnd)：React 版本的拖拽库
 - [material-tailwind](https://material-tailwind.com/)：使用 tailwind 实现 material design
 - [zustand](https://github.com/pmndrs/zustand#transient-updates-for-often-occuring-state-changes)：React 中基于 Hooks 的状态管理，🧐思考：基于这个思想借鉴到 Vue 状态管理？需要理解 vuex 做了什么，我们能改进什么
+- [react-flow](https://github.com/wbkd/react-flow)：构建高可定制的基于节点的[流程图](https://github.com/wbkd)
 
 ## Vue 相关
 
@@ -110,11 +112,13 @@
 - [tabler](https://github.com/tabler/tabler)：基于 Bootstrap 的 Dashboard UI 组件库
 - [rsuite](https://rsuitejs.com/)：一系列 React 组件套件
 - [react-spectrum](https://react-spectrum.adobe.com/index.html)：Adobe 的设计系统，包括设计原语、跨平台的状态管理等
+- [chakra](https://chakra-ui.com/docs/getting-started)：一个简单的、模块化的、可访问的组件库
 
 ## TypeScript 相关
 
 - [type-coverage](https://github.com/plantain-00/type-coverage)：检查一个 TypeScript 项目的 type 覆盖度
 - [type-challenges](https://github.com/type-challenges/type-challenges)：TS 的类型挑战的 online judge （OJ）
+- [tsd](https://github.com/SamVerschueren/tsd)：检查 TS 类型定义
 
 ## Node.js 相关
 
