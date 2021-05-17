@@ -15,6 +15,7 @@
 - [moleculer](https://github.com/moleculerjs/moleculer)：渐进式的 Node.js 微服务框架
 - [markup](https://github.com/github/markup)：判定那些 markup 库需要使用，在渲染 github 的 README内容时
 - [code-server](https://github.com/cdr/code-server)：在浏览器中使用 VSCode
+- [open-base](https://openbase.com/js/@vue/compiler-dom)：可以查看一个库的一些相关信息
 
 ## 未来会研究的
 
@@ -119,11 +120,15 @@
 - [type-coverage](https://github.com/plantain-00/type-coverage)：检查一个 TypeScript 项目的 type 覆盖度
 - [type-challenges](https://github.com/type-challenges/type-challenges)：TS 的类型挑战的 online judge （OJ）
 - [tsd](https://github.com/SamVerschueren/tsd)：检查 TS 类型定义
+- [quicktype](https://github.com/quicktype/quicktype)：从 JSON/Schema/GraphQL 转换成 types 或者生成 types
 
 ## Node.js 相关
 
 - [prisma](https://github.com/prisma/prisma)：下一代基于 TypeScript 的 Node.js  ORM，支持 PostgreSQL、MySQL、MariaDB、SQL Server & SQLite
 - [node-http-proxy](https://github.com/http-party/node-http-proxy#options)：Node.js 的多功能的 http 代理
+- [micro](https://github.com/vercel/micro)：异步的 HTTP 微服务
+- [sirv](https://www.npmjs.com/package/sirv)：静态资源的服务器
+- [serve](https://github.com/vercel/serve)：静态资源的服务器
 
 ## 数据库相关
 
@@ -241,3 +246,7 @@
 
 - [shanghai_house_knowledge](https://github.com/ayuer/shanghai_house_knowledge) ：程序员上海买房经历
 - [leerob.io](https://github.com/leerob/leerob.io)：基于 Next.js、MDX、Tailwind CSS 编写，并部署到 Vercel 的博客
+
+## 组件库相关
+
+[vanillajs-datepicker](https://github.com/mymth/vanillajs-datepicker)：使用纯 JS 实现的类似 bootstrap/bulma 的 datepicker
