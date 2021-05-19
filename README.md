@@ -16,6 +16,7 @@
 - [markup](https://github.com/github/markup)：判定那些 markup 库需要使用，在渲染 github 的 README内容时
 - [code-server](https://github.com/cdr/code-server)：在浏览器中使用 VSCode
 - [open-base](https://openbase.com/js/@vue/compiler-dom)：可以查看一个库的一些相关信息
+- [ab-testing](https://github.com/appannie/ab-testing)：AB Test 的框架
 
 ## 未来会研究的
 
@@ -199,6 +200,7 @@
 - [editorjs](https://editorjs.io/)：一个跨平台、多框架的编辑器
 - [mdx-bunder](https://github.com/kentcdodds/mdx-bundler)：给予 MDX/TSX 字符串，返回可以渲染的组件
 - [prosemirror-math](https://github.com/benrbray/prosemirror-math)：支持 Prosemirror math
+- [rehype-autolink-headings](https://github.com/rehypejs/rehype-autolink-headings)：自动给标题加链接
 
 ## 文档相关
 
@@ -224,6 +226,7 @@
 - [vdx](https://github.com/yuanqing/vdx)：使用 FFmpeg 来处理 video 的 CLI
 - [geometric.js](https://github.com/HarryStevens/geometric)：用来做几何运算的 JS 库
 - [zoxide](https://github.com/ajeetdsouza/zoxide)：快速在文件系统里面导航
+- [dragula](https://bevacqua.github.io/dragula/)：DnD 库
 
 ## 底层相关
 
@@ -250,3 +253,10 @@
 ## 组件库相关
 
 [vanillajs-datepicker](https://github.com/mymth/vanillajs-datepicker)：使用纯 JS 实现的类似 bootstrap/bulma 的 datepicker
+
+
+
+## 优秀的开源书籍
+
+- [mastering-modular-javascript](https://github.com/mjavascript/mastering-modular-javascript)：模块 JS 教程
+- [ponyfoo](https://ponyfoo.com/books/mastering-modular-javascript/chapters/2#read)：一系列开源书籍，网站设计值得参考
