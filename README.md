@@ -17,6 +17,7 @@
 - [code-server](https://github.com/cdr/code-server)：在浏览器中使用 VSCode
 - [open-base](https://openbase.com/js/@vue/compiler-dom)：可以查看一个库的一些相关信息
 - [ab-testing](https://github.com/appannie/ab-testing)：AB Test 的框架
+- [hackershare](https://hackershare.dev/bookmarks)：基于标签和设计的平台
 
 ## 未来会研究的
 
