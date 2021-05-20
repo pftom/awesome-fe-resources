@@ -18,6 +18,11 @@
 - [open-base](https://openbase.com/js/@vue/compiler-dom)：可以查看一个库的一些相关信息
 - [ab-testing](https://github.com/appannie/ab-testing)：AB Test 的框架
 - [hackershare](https://hackershare.dev/bookmarks)：基于标签和设计的平台
+- [getstream.io](/Users/bytedance/Projectes/my-projects/github/awesome-fe-resources)：一个 RSS/Podcast 的开源平台
+- [stringer](https://github.com/swanson/stringer)：自建、反社交的 RSS Reader
+- [stream](https://getstream.io/)
+
+> RSS 和 Podcast 的本质是什么？
 
 ## 未来会研究的
 
@@ -228,6 +233,7 @@
 - [geometric.js](https://github.com/HarryStevens/geometric)：用来做几何运算的 JS 库
 - [zoxide](https://github.com/ajeetdsouza/zoxide)：快速在文件系统里面导航
 - [dragula](https://bevacqua.github.io/dragula/)：DnD 库
+- [slidevjs](https://github.com/slidevjs/slidev)：用 Markdown/Vue 等来做 PPT
 
 ## 底层相关
 
@@ -245,6 +251,8 @@
 - [ohm](https://github.com/harc/ohm)：一个构建 parsers、interpreters、compilers 的库或者语言
 - [surcras](https://github.com/alangpierce/sucrase)：超快的 Babel 替代品编译器，只考虑现代的 JS runtimes
 - [twgl.js](https://github.com/greggman/twgl.js)：小的 WebGL 帮助库
+- [RecordRTC](https://github.com/muaz-khan/RecordRTC)：是一个 WebRTC JavaScript library
+- [resize-observer](https://github.com/juggle/resize-observer)：Polyfills the ResizeObserver API
 
 ## 生活相关
 
@@ -253,9 +261,7 @@
 
 ## 组件库相关
 
-[vanillajs-datepicker](https://github.com/mymth/vanillajs-datepicker)：使用纯 JS 实现的类似 bootstrap/bulma 的 datepicker
-
-
+- [vanillajs-datepicker](https://github.com/mymth/vanillajs-datepicker)：使用纯 JS 实现的类似 bootstrap/bulma 的 datepicker
 
 ## 优秀的开源书籍
 
